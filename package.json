@@ -2,6 +2,7 @@
   "name": "landing-maiara-ferraz",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/maiara/",
   "type": "module",
   "scripts": {
     "dev": "vite",
